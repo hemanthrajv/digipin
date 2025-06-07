@@ -2,7 +2,6 @@ name: digipin
 description: A starting point for Dart libraries or applications.
 version: 0.1.0
 repository: https://github.com/nativewit/digipin.git
-publish_to: 'https://pub.dev'
 
 environment:
   sdk: ^3.7.2
