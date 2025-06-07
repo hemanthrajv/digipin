@@ -1,5 +1,5 @@
 name: digipin
-description: A starting point for Dart libraries or applications.
+description: A pure Dart implementation of Indian Post DigiPin encoding and decoding.
 version: 0.1.0
 repository: https://github.com/nativewit/digipin.git
 
